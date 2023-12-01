@@ -118,7 +118,6 @@
 ||msg.umengcloud.com^
 ||v6-be-pack.pglstatp-toutiao.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
-||pull-flv-f13.douyincdn.com^
 ||112.194.65.102:80^
 ||wxsnsdythumb.wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
