@@ -1,6 +1,5 @@
 ||tls3.funshion.com^
 ||funshion.com^
-||dns.weixin.qq.com.cn^$important
 /zijieapi.*/
 /byteorge.*/
 /bytegoofy.*/
