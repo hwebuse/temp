@@ -11,6 +11,8 @@
 /fqnovelvod.*/
 /mgsdk-sign.*/
 ||dig.bdurl.net^$important
+||dig.zdurl.net^$important
+||dig.jdurl.net^$important
 ||activity-ag.awemeughun.com^$important
 ||msync-im1-vip6-std.easemob.com^$important
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
